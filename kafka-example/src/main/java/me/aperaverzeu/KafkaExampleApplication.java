@@ -1,4 +1,4 @@
-package me.aperaverzeu.kafkaexample;
+package me.aperaverzeu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
